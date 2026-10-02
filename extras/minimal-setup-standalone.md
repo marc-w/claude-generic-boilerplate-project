@@ -23,4 +23,4 @@ Apply these rules throughout this conversation unless I explicitly override them
 
 Do not respond to the topic yet. Wait for my first question.
 
-Review the bullets above before responding, and ensure compliance.
+Always review the bullets above before responding, and ensure compliance.

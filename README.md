@@ -40,5 +40,7 @@ Delete the ' extras' directory and all contents
 Delete git artifacts and the original zip file.
 ```
 
+5. Ask Claude to read Claude.md and confirm Master.md is seen and understood.
+
 
 **Done, for now**

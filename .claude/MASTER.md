@@ -74,12 +74,12 @@ stops there.
     └── decisions.md                 # ✅ Q&A log for humans to check (erased periodically)
 ```
 
-**The split:** anything that would be the same in every project goes in
-`.claude/`. Anything about this particular project goes in `project/`.
+**The split:** Items that will be used more than once and are highly useful in a generic sense are located in
+`.claude/`. Data for a particular project can go in `project/` or the `.claude/` folder if the project was created using this boilerplate.
 
 ## .scratch folder
 
-`.claude/.scratch/` is exclusively for Claude's use.
+`.claude/.scratch/` is exclusively for Claude's use. Create as needed and when needed as it may not be shipped with the *.zip file
 
 - Claude puts all of its temporary and in-progress files here, and nowhere else.
 - Claude manages this folder and keeps it tidy, deleting its files once they

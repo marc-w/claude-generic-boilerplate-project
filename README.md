@@ -36,6 +36,8 @@ Finally, review the `extras` folder, move any files wanted into the `.claude` fo
 
 ```
 Delete the ' extras' directory and all contents
+
+Delete git artifacts and the original zip file.
 ```
 
 

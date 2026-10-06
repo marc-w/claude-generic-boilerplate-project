@@ -56,6 +56,15 @@ stops there.
 - Never add ideas, suggestions or best practices that were not requested. If
   you think one is needed, ask in one line and wait for an answer.
 
+### Rule 5: Use the project skills.
+
+- Before any request that takes more than one step, follow
+  `skills/planner/SKILL.md`.
+- At the end of every request, before responding, follow
+  `skills/reviewer/SKILL.md`.
+
+If there are any other skills, use them too. If skills listed on Master don't exist, alert the user, but understand they may be removed or rewritten.
+
 ## Layout
 
 ```

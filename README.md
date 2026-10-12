@@ -6,6 +6,22 @@
 
 I kept writing the same prompts and projects over and over, so I wanted to generate a baseline set of files to use in Claude (or others) for work.
 
+## Even Faster Usage
+
+Create a project, then issue this prompt:
+
+```
+Grab the most current master release from this URL and install it in the project file system, then wait for instructions. https://github.com/marc-w/claude-generic-boilerplate-project
+```
+
+Confirm the file structure has the `.claude` folder in the root of the project file directory system, then issue this prompt:
+
+```
+Please read claude.md and learn the project layout, rules, and files.
+```
+
+Make changes as needed at this point. Done.
+
 ## Usage
 
 1. For those who don't live on git, download the *.zip file from the repo.
